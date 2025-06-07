@@ -1,0 +1,9 @@
+{
+	"name": "dfadlstosql1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8839cbcc-1ece-42b3-9e67-c32fc9017d84",
+		"tenantId": "3d613bab-9fb2-4673-8e18-cd3138b254d5"
+	}
+}
